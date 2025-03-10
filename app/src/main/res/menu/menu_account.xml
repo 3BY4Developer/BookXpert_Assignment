@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/add_alternate_name"
+        android:icon="@drawable/ic_edit"
+        android:title="Add Alternate Name" />
+    <item
+        android:id="@+id/speech_to_text"
+        android:icon="@drawable/ic_mic"
+        android:title="Speech-to-Text" />
+</menu>

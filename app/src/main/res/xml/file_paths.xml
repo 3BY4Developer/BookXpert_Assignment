@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Grant access to the app's cache directory -->
+    <external-cache-path
+        name="cache"
+        path="." />
+
+    <!-- Grant access to the app’s private files directory -->
+    <external-files-path
+        name="images"
+        path="Pictures/" />
+</paths>

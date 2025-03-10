@@ -1,0 +1,21 @@
+
+# Gradle files
+.gradle/
+**/build/
+**/.idea/
+**/.cxx/
+**/.vscode/
+local.properties
+*.iml
+
+# Gradle Wrapper files (already included in `gradle/wrapper/`)
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+
+# Compiled binaries
+*.apk
+*.aab
+
+# OS-specific files
+.DS_Store
+Thumbs.db
